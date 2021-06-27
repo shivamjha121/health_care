@@ -1,5 +1,5 @@
 # health_care
-Team memberes are:
+Team members are:
 Gopal Jha & Shivam Jha
 
 * This site is hosted on Github host service, it also contains all the credential file. 
